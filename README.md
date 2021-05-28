@@ -1,3 +1,4 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgabbygab1233%2FImage-Anonymization&count_bg=%237A001A&title_bg=%230A0596&icon=canonical.svg&icon_color=%23E7E7E7&title=Face+Anonymization&edge_flat=false)](https://hits.seeyoufarm.com)
 
 # Face Anonymization
 
