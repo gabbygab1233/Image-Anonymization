@@ -1,44 +1,27 @@
 
 # Face Anonymization
 
-Crop recommendation is one of the most important aspects of precision agriculture. Crop recommendations are based on a number of factors. Precision agriculture seeks to define these criteria on a site-by-site basis in order to address crop selection issues. While the "site-specific" methodology has improved performance, there is still a need to monitor the systems' outcomes.Precision agriculture systems aren't all created equal. However, in agriculture, it is critical that the recommendations made are correct and precise, as errors can result in significant material and capital loss.
+Data anonymization refers to an irreversible transformation of data to prevent the identification of a particular individual. On social media and photo-sharing sites, a large number of face photographs are shared and distributed every day. Some facial photos, such as those on user profile pages, are connected to a person's name, whereas others are anonymized for privacy reasons. The privacy of a named person is violated when an anonymized face image is linked to them. One way to overcome this privacy problem is to anonymize face images to protect the identity of someone.
 
 
 <p align="center">
 <img src="https://www.nhbr.com/content/uploads/2021/03/facial-recognition-tech.jpg" height=500 />
 </p>
-This application will assist farmers in increasing agricultural productivity, preventing soil degradation in cultivated land, reducing chemical use in crop production, and maximizing water resource efficiency.
 
-# [Dataset]()
-This dataset was build by augmenting datasets of rainfall, climate and fertilizer data available for India.
 
-### [Attributes information:]()
+# [How does it work ?]()
 
-* **N** - Ratio of Nitrogen content in soil
-* **P** - Ratio of Phosphorous content in soil
-* **K** - Ratio of Potassium content in soil
-* **Temperature** -  temperature in degree Celsius
-* **Humidity** - relative humidity in %
-* **ph** - ph value of the soil
-* **Rainfall** - rainfall in mm 
+<p align="center">
+<img src="https://i.imgur.com/Zv1KArx.jpg"/>
+</p>
 
-### [Experiment Results:]()
-* **Data Analysis**
-    * All columns contain outliers except for N.
- * **Performance Evaluation**
-    * Splitting the dataset by 80 % for training set and 20 % validation set.
- * **Training and Validation**
-    * GausianNB gets a higher accuracy score than other classification models.
-    * GaussianNB ( 99 % accuracy score )
- * **Performance Results**
-    * Training Score: 99.5%
-    * Validation Score: 99.3%
+
 
  
 # Demo
 Live Demo: https://ai-crop-recommender.herokuapp.com/
 
-![](https://i.imgur.com/TnsSPQy.png)
+![](https://i.imgur.com/0UfJ0SP.png)
 
 # References
 * https://www.pyimagesearch.com/2020/04/06/blur-and-anonymize-faces-with-opencv-and-python/
