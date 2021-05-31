@@ -26,6 +26,7 @@ Live Demo: https://ai-crop-recommender.herokuapp.com/
 
 # References
 * https://www.pyimagesearch.com/2020/04/06/blur-and-anonymize-faces-with-opencv-and-python/
+* https://blog.jcharistech.com/2020/11/08/working-with-file-uploads-in-streamlit-python/
 * https://deepomatic.com/en/data-anonymization-a-challenge-to-face
 * https://arxiv.org/pdf/1803.11556.pdf
 * https://hal.archives-ouvertes.fr/hal-01367565/document
