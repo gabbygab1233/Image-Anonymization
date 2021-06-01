@@ -1,5 +1,5 @@
-opencv_contrib_python==4.4.0.44
+opencv-python==4.5.2.52
 numpy==1.18.5
+imutils==0.5.3
 dlib==19.22.0
 streamlit==0.79.0
-imutils==0.5.3
