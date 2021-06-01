@@ -20,7 +20,7 @@ Data anonymization refers to an irreversible transformation of data to prevent t
 
  
 # Demo
-Live Demo: https://ai-crop-recommender.herokuapp.com/
+Live Demo: https://face-anonymization.herokuapp.com/
 
 ![](https://i.imgur.com/0UfJ0SP.png)
 
