@@ -1,5 +1,5 @@
 imutils==0.5.3
 streamlit==0.79.0
-opencv_python_headless==4.5.2.52
+opencv==4.5.2.52
 numpy==1.18.5
 dlib==19.22.0
